@@ -1,1 +1,1 @@
-Hola desde MCP script 2025-09-09T18:22:33.014111
+Upsert test ASCII
